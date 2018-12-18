@@ -39,6 +39,9 @@ Submission on BCS
 Please submit both the deployed Github.io link to your homework AND the link to the Github Repository!
 
 
+Demo of Bamazon:
+![](ezgif.com-video-to-gif.gif)
+
 
 Instructions to use this app
 
@@ -80,7 +83,7 @@ I enjoyed working on this assignment. It was harder then I had anticipated. Big 
 
 
 
-[Link to Project](PlaceHolder)
+[Link to Project](https://github.com/OCGedeon/Bamazon.git)
 
 
 
