@@ -1,10 +1,9 @@
 # Bamazon
 
+![Screenshot](bama.png)
+
 <div>
 
-Overview
-
-Node.js & MySQL
 
 I created an Amazon-like storefront app, called Bamazon, using MySQL, the MySQL NPM Package, and the Prompt Package.
 
@@ -26,24 +25,17 @@ Then it will display the total cost and ask if you would like to purchase anothe
 
 
 
-Setup
+### Setup
 
 
 We'll leave that up to you -- however you like. Just make sure you're using Firebase to store data, GitHub to backup your project, and GitHub Pages to host your finished site.
 
-
-
-Submission on BCS
-
-
-Please submit both the deployed Github.io link to your homework AND the link to the Github Repository!
-
-
 Demo of Bamazon:
+
 ![](ezgif.com-video-to-gif.gif)
 
 
-Instructions to use this app
+### Instructions to use this app
 
 Bamazon must be run in the command line.
 
@@ -61,11 +53,6 @@ You can do this by typing in the following:
 
 Then type in node bamazoncust.js to start the app.
 
-
-
--------------------------END----------------------------
-
-```
 
 ### Languages Used:
 
